@@ -210,4 +210,4 @@ client.on("ready", () => {
 });
 
 ///// token
-client.login("OTUyODUzNzEzMzA1ODkwODI2.G0ynXo.LXBbR_C28mioIoTElNhAyUJF8EyOVpEcGHn2mM")
+client.login("")
